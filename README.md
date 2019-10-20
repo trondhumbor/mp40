@@ -6,4 +6,4 @@ This mod adds the MP40 to CoD:BO's multiplayer. The gun is actually included in 
 
 ### Installation:
 * Put the the files in the `/mods` folder.
-* Launch the Black Ops modtools, check `Link FastFile` and `Build IWD`, then hit `Build mod`.
+* Launch the Black Ops modtools, run the "Converter" tool, check `Link FastFile` and `Build IWD`, then hit `Build mod`.
